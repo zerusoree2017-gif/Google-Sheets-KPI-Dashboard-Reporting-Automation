@@ -92,7 +92,7 @@ This automated Google Sheets dashboard streamlines reporting, improves data accu
 ### 3. Fix Google Sheets Sync Errors
 ![Fixing Google Sheets Sync Errors](Fixing%20Google%20Sheets%20Sync%20errors.jpg)
 ### 4. Google Sheets Workflow Automation
-![Google Sheets Workflow Automation](your-image-file-name)
+![Google Sheets Workflow Automation](Google%20Sheets%20and%20High%20impact%20Workflow%20Automation.png)
 ### 5. Google Sheets Automation Templates
 ![Google Sheets Automation Templates](your-image-file-name)
 ### 6. Business Data Reporting Dashboard
