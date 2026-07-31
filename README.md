@@ -85,8 +85,8 @@ This automated Google Sheets dashboard streamlines reporting, improves data accu
 - Custom executive dashboards
 
 ## 📸 Project Screenshots
-### 1. Automated Google Sheets KPI Dashboard
-![Automated Sales CRM Workflow](Automated%20Sales%20CRM%20Setup%20stop%20Manual%20work.webp)
+### 1. Automated KPI Dashboard (Google Sheets & Excel)
+![Automated Google Sheets KPI Dashboard](Automated%20KPI%20Dashboard%20(Google%20Sheets%20%26%20Excel).png)
 ### 2. Custom Google sheets Lead trackingDashboard
 ![Custom Google Sheets Lead Tracking Dashboard](Custom%20Google%20Sheets%20Lead%20Tracking%20Dashboard%20with%20CRM%20Automation.webp)
 ### 3. Fix Google Sheets Sync Errors
