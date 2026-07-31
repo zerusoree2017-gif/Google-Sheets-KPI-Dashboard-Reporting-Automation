@@ -89,8 +89,8 @@ This automated Google Sheets dashboard streamlines reporting, improves data accu
 ![Automated Sales CRM Workflow](Automated%20Sales%20CRM%20Setup%20stop%20Manual%20work.webp)
 ### 2. Custom Google sheets Lead trackingDashboard
 ![Custom Google Sheets Lead Tracking Dashboard](Custom%20Google%20Sheets%20Lead%20Tracking%20Dashboard%20with%20CRM%20Automation.webp)
-### 3. Google Sheets & Gmail Automation
-![Google Sheets Gmail Automation](your-image-file-name)
+### 3. Fix Google Sheets & Gmail Sync Errors
+![Fixing Google Sheets Sync Errors](Fixing%20Google%20Sheets%20Sync%20errors.jpg)
 ### 4. Google Sheets Workflow Automation
 ![Google Sheets Workflow Automation](your-image-file-name)
 ### 5. Google Sheets Automation Templates
