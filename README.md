@@ -94,7 +94,7 @@ This automated Google Sheets dashboard streamlines reporting, improves data accu
 ### 4. Google Sheets Workflow Automation
 ![Google Sheets Workflow Automation](Google%20Sheets%20and%20High%20impact%20Workflow%20Automation.png)
 ### 5. Google Sheets dashboard Automation Templates of 2026
-Google Sheets dashboard Automation Templates of 2026.png
+![Google Sheets Automation Templates](Google%20Sheets%20dashboard%20Automation%20Templates%20of%202026.png)
 ### 6. reliable Google Sheets dashboard for lead management
 ![CRM Lead Management Dashboard](reliable%20Google%20Sheets%20dashboard%20for%20lead%20management.webp)
 
