@@ -89,8 +89,8 @@ This automated Google Sheets dashboard streamlines reporting, improves data accu
 ![Automated Google Sheets KPI Dashboard](Automated%20KPI%20Dashboard%20(Google%20Sheets%20%26%20Excel).png)
 ### 2. Custom Google sheets Lead trackingDashboard
 ![Custom Google Sheets Lead Tracking Dashboard](Custom%20Google%20Sheets%20Lead%20Tracking%20Dashboard%20with%20CRM%20Automation.webp)
-### 3. Fix Google Sheets Sync Errors
-![Fixing Google Sheets Sync Errors](Fixing%20Google%20Sheets%20Sync%20errors.jpg)
+### 3. Fixing Google sheets Sync errors
+![Fixing Google Sheets Sync Errors](Fixing%20Google%20heets%20Sync%20errors.jpg)
 ### 4. Google Sheets Workflow Automation
 ![Google Sheets Workflow Automation](Google%20Sheets%20and%20High%20impact%20Workflow%20Automation.png)
 ### 5. Google Sheets dashboard Automation Templates of 2026
