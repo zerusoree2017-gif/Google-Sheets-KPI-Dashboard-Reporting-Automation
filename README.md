@@ -9,8 +9,6 @@ Many businesses spend hours manually collecting data, updating reports, and prep
 This solution automates reporting workflows, reduces manual work, and provides real-time business insights through Google Sheets automation.
 
 ## 🚀 Key Features
-
-## 🚀 Key Features
 - Interactive KPI Dashboard
 - Executive Business Reporting
 - Automated Google Sheets Reports
@@ -46,7 +44,6 @@ This solution enables businesses to:
 - Reduced Manual Work
 - Better Decision Making
 
-
 ## 🎯 Skills Demonstrated
 - Google Sheets Dashboard Design
 - KPI Reporting
@@ -58,7 +55,6 @@ This solution enables businesses to:
 - Data Cleaning
 
 ## ⚙️ How It Works
-
 1. Import business data into Google Sheets.
 2. Clean and organize the data automatically.
 3. Calculate KPIs using advanced formulas.
