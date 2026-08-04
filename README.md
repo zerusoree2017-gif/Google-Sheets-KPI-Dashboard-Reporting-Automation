@@ -1,7 +1,14 @@
-# Google Sheets KPI Dashboard Reporting Automation
+ # Google Sheets KPI Dashboard Reporting Automation
 
 ## 📌 Project Overview
+
 This project showcases a professional Google Sheets KPI Dashboard designed to automate business reporting, visualize key performance indicators (KPIs), and provide real-time insights for smarter business decisions. The dashboard helps reduce manual reporting while improving productivity, accuracy, and operational efficiency.
+
+## 🎯 Business Problem
+Many businesses spend hours manually collecting data, updating reports, and preparing KPI dashboards.
+This solution automates reporting workflows, reduces manual work, and provides real-time business insights through Google Sheets automation.
+
+## 🚀 Key Features
 
 ## 🚀 Key Features
 - Interactive KPI Dashboard
@@ -39,7 +46,6 @@ This solution enables businesses to:
 - Reduced Manual Work
 - Better Decision Making
 
----
 
 ## 🎯 Skills Demonstrated
 - Google Sheets Dashboard Design
@@ -100,7 +106,6 @@ This automated Google Sheets dashboard streamlines reporting, improves data accu
 
 
 ## 👨‍💻 About Me
-
 I help businesses build professional Google Sheets dashboards, automate reporting, streamline workflows, and improve decision-making using Google Workspace, Google Apps Script, Zapier, n8n, and CRM solutions.
 
 **Upwork**
@@ -111,6 +116,5 @@ https://www.fiverr.com/zerihunabera413
 ## 👨‍💻 Author
 
 **Zerihun Abera**
-
 **Google Sheets KPI Dashboard & Automation Specialist**
 Google Sheets • Google Apps Script • Google Workspace • Business Reporting • KPI Dashboards • Workflow Automation
