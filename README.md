@@ -70,7 +70,7 @@ This solution enables businesses to:
 
 ## 🔄 Dashboard Workflow
 
-Business Data → Google Sheets → Data Cleaning → KPI Calculations → Interactive Dashboard → Business Reports
+_**Business Data → Google Sheets → Data Cleaning → KPI Calculations → Interactive Dashboard → Business Reports**_
 
 ## 💼 Use Cases
 
